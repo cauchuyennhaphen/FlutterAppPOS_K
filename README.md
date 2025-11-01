@@ -103,6 +103,6 @@ Phân phối dưới giấy phép MIT. Xem `LICENSE` để biết thêm thông t
 
 ## 📞 Liên hệ
 
-Tên của bạn - [@cauchuyennhaphen](https://github.com/cauchuyennhaphen)
+[Thạc Nguyễn Đình Vũ](https://github.com/cauchuyennhaphen)
 
 Link dự án: [https://github.com/cauchuyennhaphen/FlutterAppPOS_K](https://github.com/cauchuyennhaphen/FlutterAppPOS_K)
